@@ -17,6 +17,3 @@ This project trains a Convolutional Neural Network (CNN) to recognize handwritte
 ## Usage  
 Refer to the **project report** for a detailed explanation of the methodology, mathematical background, and implementation.  
 
-## Reference  
-See **MATH 156 Project Report** for full details.  
-
