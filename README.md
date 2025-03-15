@@ -1,4 +1,4 @@
-# Character Recognition using CNNs  
+# Handwritten Letter Recognition using CNNs  
 
 ## Overview  
 This project trains a Convolutional Neural Network (CNN) to recognize handwritten English letters using the EMNIST Letters dataset. The dataset consists of 103,600 grayscale images (28x28 pixels) categorized into 26 classes (A–Z). The model is built using convolutional, pooling, and fully connected layers and is trained with the Adam optimizer and categorical cross-entropy loss.  
